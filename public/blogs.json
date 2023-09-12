@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/x3vyWfr/2.png",
+    "title": "Travel Adventures",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/0F8SLkj/boy1.png",
+    "posted_date": "2023-09-12",
+    "reading_time": 10,
+    "hashtags": ["fiction", "LoremIpsum", "book"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/ZK53zZC/1.jpg",
+    "title": "The Mystery of Atlantis",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/YtnhCFX/boy2.jpg",
+    "posted_date": "2023-09-13",
+    "reading_time": 15,
+    "hashtags": ["mystery", "history", "adventure"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/XxLHCQg/3.png",
+    "title": "Cooking with Spices",
+    "author": "jarah Brown",
+    "author_img": "https://i.ibb.co/fNrqr2K/girl1.jpg",
+    "posted_date": "2023-09-14",
+    "reading_time": 8,
+    "hashtags": ["cooking", "spices", "recipes"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/YDTrdjm/4.jpg",
+    "title": "Tech Trends 2023",
+    "author": "Sarah Brown",
+    "author_img": "https://i.ibb.co/rxxJRYg/girl2.jpg",
+    "posted_date": "2023-09-15",
+    "reading_time": 12,
+    "hashtags": ["technology", "trends", "innovation"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/HxZYbHd/13495359-5236426.jpg",
+    "title": "Digital marketing",
+    "author": "David Wilson",
+    "author_img": "https://i.ibb.co/0F8SLkj/boy1.png",
+    "posted_date": "2023-09-16",
+    "reading_time": 20,
+    "hashtags": ["travel", "adventures", "explore"]
+  }
+]
